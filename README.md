@@ -16,7 +16,7 @@ FCC Learning:
 - Information Security Certification
 
 The Odin Project Learning
-    Foundations:
+Foundations:
     - Introduction //Completed
     - Installations //Completed
     - Git Basics //Completed
@@ -26,7 +26,7 @@ The Odin Project Learning
     - JavaScript Basics
     - The Back End
     
-    Full Stack JavaScript
+Full Stack JavaScript
     - JavaScript
     - HTML and CSS
     - NodeJS
