@@ -16,6 +16,7 @@ FCC Learning:
 - Information Security Certification
 
 The Odin Project Learning
+
 Foundations:
  - Introduction //Completed
  - Installations //Completed
