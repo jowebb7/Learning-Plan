@@ -17,19 +17,19 @@ FCC Learning:
 
 The Odin Project Learning
 Foundations:
-    - Introduction //Completed
-    - Installations //Completed
-    - Git Basics //Completed
-    - HTML Foundations // Completed
-    - CSS Foundations // Completed
-    - Flexbox
-    - JavaScript Basics
-    - The Back End
+ - Introduction //Completed
+ - Installations //Completed
+ - Git Basics //Completed
+ - HTML Foundations // Completed
+ - CSS Foundations // Completed
+ - Flexbox
+ - JavaScript Basics
+ - The Back End
     
 Full Stack JavaScript
-    - JavaScript
-    - HTML and CSS
-    - NodeJS
+ - JavaScript
+ - HTML and CSS
+ - NodeJS
 
 
 Udemy Courses:
