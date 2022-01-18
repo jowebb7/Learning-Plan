@@ -23,7 +23,7 @@ This is my learning plan progression
  - [x] Git Basics 
  - [x] HTML Foundations 
  - [x] CSS Foundations 
- - [ ] Flexbox
+ - [x] Flexbox
  - [ ] JavaScript Basics
  - [ ] The Back End
     
