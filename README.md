@@ -30,9 +30,9 @@ This is my learning plan progression
 
 ### Full Stack JavaScript
 
-- [ ] JavaScript
-- [ ] HTML and CSS
-- [ ] NodeJS
+- [x] JavaScript
+- [x] HTML and CSS
+- [x] NodeJS
 
 ## Udemy Courses:
 
