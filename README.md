@@ -10,10 +10,9 @@ This is my learning plan progression
 
 - [x] Responsive Web Design //[Completed 12/8/21](https://bit.ly/3JU72Bs)
 - [x] JavaScript Algorithms and Data Structures //[Completed 1/9/22](bit.ly/3HNXPZB)
-- [ ] Front End Development Libraries
-- [ ] Data Visualization
 - [ ] Back End Development and APIs
-- [ ] Quality Assurance
+- [ ] Scientific Computing with Python
+- [ ] Information Security Certification
 
 ## The Odin Project Learning
 
@@ -38,6 +37,13 @@ This is my learning plan progression
 
 - [ ] [Python Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/3421822?start=0#overview)
 - [x] [CompTIA Security+ 601](https://www.udemy.com/course/comptia_security_sy0-601_certification_training_class/learn/lecture/23582190?start=721#overview)
+
+## Cybersecurity Learning:
+
+- [x] Tryhackme: Pre Security //[Completed 4/12/22]
+- [ ] Tryhackme: Junior Penetration Tester
+- [ ] Tryhackme: Cyber Defense
+- [ ] Tryhackme: Offensive Penetesting
 
 ## Certs to Aquire:
 
