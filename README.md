@@ -43,7 +43,8 @@ This is my learning plan progression
 ## Cybersecurity Learning:
 
 - [x] Tryhackme: Pre Security //[Completed 4/12/22]
-- [ ] Tryhackme: Junior Penetration Tester
+- [x] Tryhackme: Junior Penetration Tester //[Completed 5/13/22]
+- [x] Tryhackme: Web Application Fundamentals //[Completed 5/20/22]
 - [ ] Tryhackme: Cyber Defense
 - [ ] Tryhackme: Offensive Penetesting
 
@@ -61,7 +62,7 @@ This is my learning plan progression
 - [ ] Information Security and Assurance
 - [ ] Cybersecurity Management I - Strategic
 - [ ] Cybersecurity Management II - Tactical
-- [ ] CEH (Certification)
+- [ ] Certified Ethical Hacker (Certification)
 - [ ] Cybersecurity Architecture and Engineering
 - [ ] Computer Hacking Forensic Investigator (Certification)
 - [ ] Secure Software Design
