@@ -1,6 +1,6 @@
 # Learning-Plan
 
-This document was made to help keep track of the items I want to learn and my progress with them.
+This document was created to provide direction and keep track of learning objectives.
 
 - FreeCodeCamp Profile: https://www.freecodecamp.org/Jowebb7
 - GitHub Profile: https://github.com/jowebb7
