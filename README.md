@@ -6,7 +6,7 @@ This is my learning plan progression
 - GitHub Profile: https://github.com/jowebb7
 - The Odin Project : https://www.theodinproject.com/
 
-## FCC Learning:
+## Free Code Camp Learning:
 
 - [x] Responsive Web Design //[Completed 12/8/21](https://bit.ly/3JU72Bs)
 - [x] JavaScript Algorithms and Data Structures //[Completed 1/9/22](bit.ly/3HNXPZB)
@@ -37,6 +37,8 @@ This is my learning plan progression
 
 - [ ] [Python Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/3421822?start=0#overview)
 - [x] [CompTIA Security+ 601](https://www.udemy.com/course/comptia_security_sy0-601_certification_training_class/learn/lecture/23582190?start=721#overview)
+- [ ] [Thor Pedersen CISSP Course](https://www.udemy.com/user/thorpedersen/)
+- [ ] [CISCO CCNA 200-301 Complete Course](https://www.udemy.com/course/cisco-ccent-icnd1-100-105-complete-course-sims-and-gns3/)
 
 ## Cybersecurity Learning:
 
@@ -52,3 +54,15 @@ This is my learning plan progression
 - [ ] CCNA
 - [ ] eJPT
 - [ ] CISSP
+
+## Masters of Science, CyberSecurity and Information Assurance(Begins 7/1/22):
+
+- [ ] Secure Network Design
+- [ ] Information Security and Assurance
+- [ ] Cybersecurity Management I - Strategic
+- [ ] Cybersecurity Management II - Tactical
+- [ ] CEH (Certification)
+- [ ] Cybersecurity Architecture and Engineering
+- [ ] Computer Hacking Forensic Investigator (Certification)
+- [ ] Secure Software Design
+- [ ] Cybersecurity Graduate Capstone
