@@ -1,6 +1,6 @@
 # Learning-Plan
 
-This is my learning plan progression
+This document was made to help keep track of the items I want to learn and my progress with them.
 
 - FreeCodeCamp Profile: https://www.freecodecamp.org/Jowebb7
 - GitHub Profile: https://github.com/jowebb7
