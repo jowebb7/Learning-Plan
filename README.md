@@ -4,7 +4,7 @@ This document was made to help keep track of the items I want to learn and my pr
 
 - FreeCodeCamp Profile: https://www.freecodecamp.org/Jowebb7
 - GitHub Profile: https://github.com/jowebb7
-- The Odin Project : https://www.theodinproject.com/
+- TryHackMe Profile: https://tryhackme.com/p/webbdevelops
 
 ## Free Code Camp Learning:
 
