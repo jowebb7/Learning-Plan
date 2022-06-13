@@ -37,8 +37,7 @@ This is my learning plan progression
 
 - [ ] [Python Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/3421822?start=0#overview)
 - [x] [CompTIA Security+ 601](https://www.udemy.com/course/comptia_security_sy0-601_certification_training_class/learn/lecture/23582190?start=721#overview)
-- [ ] [Thor Pedersen CISSP Course](https://www.udemy.com/user/thorpedersen/)
-- [ ] [CISCO CCNA 200-301 Complete Course](https://www.udemy.com/course/cisco-ccent-icnd1-100-105-complete-course-sims-and-gns3/)
+
 
 ## Cybersecurity Learning:
 
@@ -50,8 +49,8 @@ This is my learning plan progression
 
 ## Certs to Aquire:
 
-- [x] AWS Cloud Practioner //[Completed 3/19/22](https://aw.certmetrics.com/amazon/public/verification.aspx) Verification Code: 7ZPX28KDMBEQ1LWL
-- [x] CompTIA Security+ //[Completed 2/23/22](https://www.certmetrics.com/comptia/public/verification.aspx/) Verification Code: JMPGS82PXGB11EGK
+- [x] AWS Cloud Practioner //[Completed 2/23/22](https://aw.certmetrics.com/amazon/public/verification.aspx) Verification Code: 7ZPX28KDMBEQ1LWL
+- [x] CompTIA Security+ //[Completed 3/19/22](https://www.certmetrics.com/comptia/public/verification.aspx/) Verification Code: JMPGS82PXGB11EGK
 - [ ] CCNA
 - [ ] eJPT
 - [ ] CISSP
