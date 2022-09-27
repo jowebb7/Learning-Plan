@@ -33,12 +33,6 @@ This document was created to provide direction and keep track of learning object
 - [x] HTML and CSS
 - [x] NodeJS
 
-## Udemy Courses:
-
-- [ ] [Python Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/3421822?start=0#overview)
-- [x] [CompTIA Security+ 601](https://www.udemy.com/course/comptia_security_sy0-601_certification_training_class/learn/lecture/23582190?start=721#overview)
-
-
 ## Cybersecurity Learning:
 
 - [x] Tryhackme: Pre Security //[Completed 4/12/22]
@@ -51,18 +45,23 @@ This document was created to provide direction and keep track of learning object
 
 - [x] AWS Cloud Practioner //[Completed 2/23/22](https://aw.certmetrics.com/amazon/public/verification.aspx) Verification Code: 7ZPX28KDMBEQ1LWL
 - [x] CompTIA Security+ //[Completed 3/19/22](https://www.certmetrics.com/comptia/public/verification.aspx/) Verification Code: JMPGS82PXGB11EGK
-- [ ] CCNA
-- [ ] eJPT
+- [ ] CCNA or Net+
+- [x] CEH //[Completed 7/29/22](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=qokROL1Afz1t5r6J76w8GiFPbNeuX4hdoR619NqXaIg=) Cert ID: ECC8975016432
+- [x] eJPT //[Completed 9/13/22](https://www.elearnsecurity.com/certification/verify/) Cert ID: 7308923
 - [ ] CISSP
+- [ ] CySA+
+- [ ] AWS SA
+- [ ] CISA
 
-## Masters of Science, CyberSecurity and Information Assurance(Begins 7/1/22):
+## Masters of Science, CyberSecurity and Information Assurance:
 
-- [ ] Secure Network Design
-- [ ] Information Security and Assurance
-- [ ] Cybersecurity Management I - Strategic
-- [ ] Cybersecurity Management II - Tactical
-- [ ] Certified Ethical Hacker (Certification)
-- [ ] Cybersecurity Architecture and Engineering
-- [ ] Computer Hacking Forensic Investigator (Certification)
-- [ ] Secure Software Design
-- [ ] Cybersecurity Graduate Capstone
+- [x] Secure Network Design
+- [x] Information Security and Assurance
+- [x] Cybersecurity Management I - Strategic
+- [x] Cybersecurity Management II - Tactical
+- [x] Certified Ethical Hacker (Certification)
+- [x] Cybersecurity Architecture and Engineering
+- [x] Computer Hacking Forensic Investigator (Certification)
+- [x] Secure Software Design
+- [x] Cybersecurity Graduate Capstone
+- [x] M.S. - Cybersecurity and Information Assurance completed September 20th, 2022
