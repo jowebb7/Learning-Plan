@@ -64,4 +64,4 @@ This document was created to provide direction and keep track of learning object
 - [x] Computer Hacking Forensic Investigator (Certification)
 - [x] Secure Software Design
 - [x] Cybersecurity Graduate Capstone
-- [x] M.S. - Cybersecurity and Information Assurance completed September 20th, 2022
+- [x] M.S. - Cybersecurity and Information Assurance //[[Completed 9/20/22]]
