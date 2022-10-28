@@ -48,7 +48,7 @@ This document was created to provide direction and keep track of learning object
 - [ ] CCNA or Net+
 - [x] CEH //[Completed 7/29/22](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=qokROL1Afz1t5r6J76w8GiFPbNeuX4hdoR619NqXaIg=) Cert ID: ECC8975016432
 - [x] eJPT //[Completed 9/13/22](https://www.elearnsecurity.com/certification/verify/) Cert ID: 7308923
-- [ ] CISSP
+- [x] CISSP //[Completed 10/28/22]
 - [ ] CySA+
 - [ ] AWS SA
 - [ ] CISA
