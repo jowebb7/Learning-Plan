@@ -51,7 +51,7 @@ This document was created to provide direction and keep track of learning object
 - [x] CISSP //[Completed 10/28/22]
 - [ ] CySA+
 - [ ] AWS SA
-- [ ] CISA
+- [x] CISA
 
 ## Masters of Science, CyberSecurity and Information Assurance:
 
